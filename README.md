@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wongani F. Jere</h1>
 <h3 align="center">A Full Stack Web Developer, Music Producer, and Content Creator.</h3>
 
-- 👨‍💻 All of my projects are available at [https://jaypushcode.github.io/React-Personal-Portfolio/#about](https://jaypushcode.github.io/React-Personal-Portfolio/#about)
+- 👨‍💻 My personal resume and portfolio site is available at: [https://jaypushcode.github.io/React-Personal-Portfolio/#about](https://jaypushcode.github.io/React-Personal-Portfolio/#about)
 
 - 📫 How to reach me **jaypushcode@gmail.com**
 
