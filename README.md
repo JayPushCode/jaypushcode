@@ -5,7 +5,8 @@
 -  [https://jaypushcode.github.io/React-Personal-Portfolio/](https://jaypushcode.github.io/React-Personal-Portfolio/)
   
 
-- 📫 How to reach me **jaypushcode@gmail.com**
+- 📫 How to reach me
+- **jaypushcode@gmail.com**
 
 - ⚡ Fun fact **I like to collect quotes.**
 
