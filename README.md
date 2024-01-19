@@ -2,11 +2,11 @@
 <h3 align="center">A Full Stack Web Developer, Music Producer, and Content Creator.</h3>
 
 - 👨🏿‍💻 My personal resume/portfolio:
--  [https://jaypushcode.github.io/React-Personal-Portfolio/](https://jaypushcode.github.io/React-Personal-Portfolio/)
+  [https://jaypushcode.github.io/React-Personal-Portfolio/](https://jaypushcode.github.io/React-Personal-Portfolio/)
   
 
 - 📫 How to reach me
-- **jaypushcode@gmail.com**
+ **jaypushcode@gmail.com**
 
 - ⚡ Fun fact **I like to collect quotes.**
 
